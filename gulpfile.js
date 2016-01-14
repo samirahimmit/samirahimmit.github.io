@@ -56,8 +56,43 @@ gulp.task('sass', function () {
  */
 gulp.task('watch', function () {
     gulp.watch('_scss/*.scss', ['sass']);
-    gulp.watch(['*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
+    gulp.watch(['*.md', 'contact/*.md','*.html', 'journal/*.html', '_layouts/*.html', '_includes/*.html',  '_posts/*'], ['jekyll-rebuild']);
 });
+
+/**
+ * Automate bower files into template -- Need to configure more
+ */
+ gulp.task('bower', function () {
+   gulp.src('./footer.php')
+     .pipe(wiredep({
+       cwd: '././',
+       optional: 'configuration',
+       goes: 'here'
+     }))
+     .pipe(replace(/(<script src=")(bower_components\/)/g, '$1<?php echo get_template_directory_uri(); ?>/$2'))
+     .pipe(gulp.dest('./'));
+
+     gulp.src('./_layouts/default.html')
+       .pipe(wiredep({
+         cwd: '././',
+         optional: 'configuration',
+         goes: 'here'
+       }))
+       .pipe(replace(/(href=")(bower_components\/)/g, '$1<?php echo get_template_directory_uri(); ?>/$2'))
+       .pipe(gulp.dest('./'));
+
+ });
+
+ /**
+  * Minify CSS
+  */
+
+ gulp.task('minify-css', function() {
+  return gulp.src('css/*.css')
+    .pipe(minifyCss({compatibility: 'ie8'}))
+    .pipe(gulp.dest('dist'));
+});
+
 
 /**
  * Default task, running just `gulp` will compile the sass,
