@@ -1,11 +1,57 @@
 @import "reset";
 @import "syntax";
+@import "../bower_components/bourbon/app/assets/stylesheets/_bourbon";
+@import "_base/grid-settings";
+@import "../bower_components/neat/app/assets/stylesheets/_neat";
+@import "_base/base";
+
+html,body{
+  position:absolute;
+  width:100%;
+  height:100%;
+}
 
 body {
     background: white;
-    background-image:url('../assets/img/bg.jpg');
+    background-image:url('../assets/img/bg02.jpg');
     background-repeat:no-repeat;
     background-position:left bottom;
     background-size:150%;
     background-attachment: fixed;
+}
+
+header{
+  text-align:left;
+  padding-top:5%;
+  @include outer-container();
+  h1{
+    position:fixed;
+    z-index:99;
+  }
+}
+
+main{
+  padding-top:8%;
+  @include outer-container();
+}
+
+section{
+  text-align:left;
+  padding-top:3%;
+  padding-bottom:3%;
+  padding-left:4%;
+  padding-right:4%;
+  @include span-columns(6);
+  &.intro, &.contact{
+    background:rgba(255,255,255,0.8);
+    @include shift(1);
+  }
+  &.about{
+    background:rgba( $turquoise, .8 );
+    color:white;
+    @include shift(6);
+  }
+  &.contact{
+      margin-bottom:10%;
+  }
 }

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}- Samira Himmitgulp
+        <title>Samira Himmit - communicatie &amp; tekst
         </title>
         <meta name="viewport" content="width=device-width">
 
@@ -12,8 +12,13 @@
 
     </head>
     <body>
-
-      {{ content }}
-
+      <header>
+        <h1>Samira <span class="secondary">Himmit.</span></h1>
+      </header>
+      <main id="skrollr-body">
+        {{ content }}
+      </main>
+      {% include webfonts.html %}
+      {% include skrollr.html %}
     </body>
 </html>

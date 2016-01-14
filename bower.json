@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "bourbon": "~4.2.6",
-    "neat": "~1.7.2"
+    "neat": "~1.7.2",
+    "skrollr": "~0.6.30"
   }
 }

@@ -1,1 +1,1 @@
-Communiceren begint met goed en kritisch luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag. Zo kom ik tot een advies of tekst die aansluit op jouw visie. Jouw visie met mijn twist. 
+Communiceren begint met goed en kritisch luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag. Zo kom ik tot een advies of tekst die aansluit op jouw visie. Jouw visie met mijn twist.
