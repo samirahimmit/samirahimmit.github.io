@@ -396,4 +396,9 @@ a:visited {
 
 /* Literal.Number.Integer.Long */
 body {
-  background: white; }
+  background: white;
+  background-image: url("../assets/img/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 150%;
+  background-attachment: fixed; }

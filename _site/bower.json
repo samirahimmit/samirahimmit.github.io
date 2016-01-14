@@ -1,0 +1,29 @@
+{
+  "name": "samirahimmit",
+  "description": "Personal Website",
+  "main": "gulpfile.js",
+  "authors": [
+    "Samira Himmit"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "homepage": "https://github.com/samirahimmit/samirahimmit.github.io",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.2"
+  }
+}
