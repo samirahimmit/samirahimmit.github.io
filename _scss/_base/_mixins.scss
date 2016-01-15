@@ -1,0 +1,8 @@
+@mixin mobile-col() {
+  @include media($medium-screen-down) {
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:4%;
+  }
+}

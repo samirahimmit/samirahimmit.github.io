@@ -63,6 +63,11 @@ h1{
   font-size:em(62);
   line-height:1em;
   letter-spacing: rem(2.41);
+  @include media($medium-screen-down){
+    font-size:em(62/1.5);
+    letter-spacing:rem(2.41/1.5);
+    margin-bottom:0;
+  }
 }
 
 p{
