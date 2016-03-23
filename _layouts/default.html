@@ -18,6 +18,21 @@
       <main id="skrollr-body">
         {{ content }}
       </main>
+
+      <section class="projects">
+        {% for project in site.projects %}
+          <article>
+            <div class="content">
+             <h1 class="project">{{ project.title }}</h1>
+             {{ project.content }}
+            </div>
+            <div class="meta">
+              <h3>{{ project.categories | join: '</h3><h3>' }}</h3>
+            </div>
+          </article>
+        {% endfor %}
+      </section>
+
       {% include webfonts.html %}
       {% include skrollr.html %}
     </body>

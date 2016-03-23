@@ -1,0 +1,35 @@
+section.projects{
+  width:100%;
+  background:white;
+  article{
+    margin-bottom:rem(60);
+    @include outer-container();
+  }
+  h1{
+    font-size: 2.25rem;
+    font-weight: 700;
+    letter-spacing: rem(1.4);
+  }
+  .content{
+    padding-right:rem(28);
+    @include span-columns(5);
+    @include shift(3);
+    @include mobile-col();
+  }
+  .meta{
+    padding-top:rem(56);
+    @include span-columns(3);
+    @include omega();
+    @include mobile-col();
+    h3{
+      font-size:rem(18);
+      font-weight:600;
+      width:auto;
+      display:inline-block;
+      padding:rem(10) rem(11) rem(12) rem(11);
+      background:$turquoise;
+      color:white;
+      margin-right:rem(22);
+    }
+  }
+}

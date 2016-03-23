@@ -411,12 +411,6 @@ section {
   width: 49.61832%; }
   section:last-child {
     margin-right: 0; }
-  @media screen and (max-width: 40em) {
-    section {
-      width: 90%;
-      margin-left: 5%;
-      margin-right: 5%;
-      margin-bottom: 4%; } }
 
 section.intro, section.contact {
   background: rgba(255, 255, 255, 0.8);
@@ -438,6 +432,18 @@ section.about {
       margin-left: 5%;
       margin-right: 5%;
       margin-bottom: 4%; } }
+  section.about p {
+    clear: both; }
+  section.about p:first-child {
+    width: 60%;
+    float: left; }
+  section.about p:nth-child(2) {
+    clear: none; }
+  section.about img {
+    width: calc(38%);
+    float: right;
+    margin-top: 0.625rem;
+    margin-left: 1%; }
 
 section.contact {
   margin-bottom: 10%; }
@@ -447,3 +453,59 @@ section.contact {
       margin-left: 5%;
       margin-right: 5%;
       margin-bottom: 4%; } }
+
+section.projects {
+  width: 100%;
+  background: white; }
+  section.projects article {
+    margin-bottom: 3.75rem;
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto; }
+    section.projects article::after {
+      clear: both;
+      content: "";
+      display: table; }
+  section.projects h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    letter-spacing: 0.0875rem; }
+  section.projects .content {
+    padding-right: 1.75rem;
+    float: left;
+    display: block;
+    margin-right: 0.76336%;
+    width: 41.22137%;
+    margin-left: 25.19084%; }
+    section.projects .content:last-child {
+      margin-right: 0; }
+    @media screen and (max-width: 40em) {
+      section.projects .content {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 4%; } }
+  section.projects .meta {
+    padding-top: 3.5rem;
+    float: left;
+    display: block;
+    margin-right: 0.76336%;
+    width: 24.42748%;
+    margin-right: 0; }
+    section.projects .meta:last-child {
+      margin-right: 0; }
+    @media screen and (max-width: 40em) {
+      section.projects .meta {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 4%; } }
+    section.projects .meta h3 {
+      font-size: 1.125rem;
+      font-weight: 600;
+      width: auto;
+      display: inline-block;
+      padding: 0.625rem 0.6875rem 0.75rem 0.6875rem;
+      background: #006269;
+      color: white;
+      margin-right: 1.375rem; }

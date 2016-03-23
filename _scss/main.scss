@@ -52,7 +52,7 @@ section{
   padding-left:4%;
   padding-right:4%;
   @include span-columns(6);
-  @include mobile-col();
+  
 }
 
 
@@ -68,9 +68,27 @@ section.about{
   color:white;
   @include shift(6);
   @include mobile-col();
+  p{
+    clear:both;
+  }
+  p:first-child{
+    width:60%;
+    float:left;
+  }
+  p:nth-child(2){
+    clear:none;
+  }
+  img{
+    width:calc(38%);
+    float:right;
+    margin-top:rem(10);
+    margin-left:1%;
+  }
 }
 
 section.contact{
   margin-bottom:10%;
   @include mobile-col();
 }
+
+@import "projects";
