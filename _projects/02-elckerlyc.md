@@ -1,5 +1,5 @@
 ---
-title:  Yoga Scheurkalender 2016
+title:  Stichting Elckerlyc
 categories: zorg&welzijn communicatie tekst reputatiemanagement
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  Stichting Elckerlyc
+title:  Yoga Scheurkalender 2016
 categories: yoga lifestyle redactie
 ---
 
