@@ -371,20 +371,17 @@ body {
 header {
   text-align: left;
   padding-top: 5%;
-  position: fixed;
-  width: 100%;
-  z-index: 9999; }
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto; }
+  header::after {
+    clear: both;
+    content: "";
+    display: table; }
   header h1 {
-    z-index: 99;
-    margin-bottom: 0; }
+    z-index: 99; }
     @media screen and (max-width: 40em) {
       header h1 {
-        padding-left: 4%; } }
-  header h2 {
-    margin-bottom: 2.8125rem;
-    font-size: 1.3125rem; }
-    @media screen and (max-width: 40em) {
-      header h2 {
         padding-left: 4%; } }
   @media screen and (max-width: 40em) {
     header {
@@ -392,20 +389,8 @@ header {
       margin-left: 5%;
       margin-right: 5%;
       margin-bottom: 4%; } }
-  @media screen and (max-width: 40em) {
-    header {
-      position: relative; } }
-  header .header__content {
-    max-width: 1320px;
-    margin-left: auto;
-    margin-right: auto; }
-    header .header__content::after {
-      clear: both;
-      content: "";
-      display: table; }
 
 main {
-  margin-top: 12.5rem;
   max-width: 1320px;
   margin-left: auto;
   margin-right: auto; }
@@ -413,9 +398,6 @@ main {
     clear: both;
     content: "";
     display: table; }
-  @media screen and (max-width: 40em) {
-    main {
-      margin-top: 0rem; } }
 
 section {
   text-align: left;
@@ -440,13 +422,9 @@ section.intro, section.contact {
       margin-right: 5%;
       margin-bottom: 4%; } }
 
-section.intro {
-  margin-top: -10%; }
-
 section.about {
   background: rgba(0, 98, 105, 0.8);
   color: white;
-  margin-top: -10%;
   margin-left: 50.38168%; }
   @media screen and (max-width: 40em) {
     section.about {
