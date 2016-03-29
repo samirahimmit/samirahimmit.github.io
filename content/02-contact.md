@@ -1,1 +1,1 @@
-M: [sam@samirahimmit.nl](mailto:sam@samirahimmit.nl)
+Neem contact met me op via [sam@samirahimmit.nl](mailto:sam@samirahimmit.nl). 
