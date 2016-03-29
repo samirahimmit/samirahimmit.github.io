@@ -29,19 +29,41 @@ header{
 
   text-align:left;
   padding-top:5%;
-  @include outer-container();
+  position:fixed;
+  width:100%;
+  z-index:9999;
   h1{
     z-index:99;
+    margin-bottom:0;
     @include media($medium-screen-down) {
       padding-left:4%;
     }
+
+  }
+  h2{
+    margin-bottom: rem(45);
+    font-size: rem(21);
+    @include media($medium-screen-down) {
+      padding-left:4%;
+    }
+
   }
   @include mobile-col();
+  @include media($medium-screen-down) {
+    position:relative;
+  }
+  .header__content{
+    @include outer-container();
+  }
 }
 
 main{
   //padding-top:8%;
+  margin-top:rem(200);
   @include outer-container();
+  @include media($medium-screen-down) {
+    margin-top:rem(0);
+  }
 }
 
 section{
@@ -52,7 +74,7 @@ section{
   padding-left:4%;
   padding-right:4%;
   @include span-columns(6);
-  
+
 }
 
 
@@ -62,10 +84,15 @@ section.intro, section.contact{
   @include mobile-col();
 }
 
+section.intro{
+  margin-top:-10%;
+}
+
 section.about{
 
   background:rgba( $turquoise, .8 );
   color:white;
+  margin-top:-10%;
   @include shift(6);
   @include mobile-col();
   p{
