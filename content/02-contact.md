@@ -1,4 +1,1 @@
-Neem **contact** met me op via
-[sam@samirahimmit.nl](mailto:sam@samirahimmit.nl)  
-[LinkedIn](https://nl.linkedin.com/in/samirahimmit). 
-Goudsesingel 136 - Terra Cacti
+Neem **contact** met me op via [sam@samirahimmit.nl](mailto:sam@samirahimmit.nl) of [LinkedIn](https://nl.linkedin.com/in/samirahimmit). Ik ben te vinden in het Industriegebouw aan de Goudsesingel 136 - unit 'Terra Cacti'. 
