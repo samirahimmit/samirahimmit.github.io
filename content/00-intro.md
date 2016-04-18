@@ -4,4 +4,4 @@ Ik schrijf persberichten, teksten voor websites, jaarverslagen en brochures. En 
 
 Lijkt dit je wat? Laten we dan kennismaken. 
 
-Aan deze website wordt hard gewerkt. Meer projecten waaraan ik heb gewerkt volgen binnenkort!
+Het is goed om te weten dat deze website nog niet af is. Meer projecten waaraan ik heb gewerkt volgen binnenkort.
