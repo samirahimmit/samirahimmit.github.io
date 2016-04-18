@@ -3,3 +3,5 @@ Communiceren begint met goed luisteren. Jouw verhaal ken ik nog niet. Dus vertel
 Ik schrijf persberichten, teksten voor websites, jaarverslagen en brochures. En ik geef communicatieadvies. Frisdenkend, weloverwogen en helder verwoord.
 
 Lijkt dit je wat? Laten we dan kennismaken. 
+
+Aan deze website wordt hard gewerkt. Meer projecten waaraan ik heb gewerkt volgen binnenkort!
