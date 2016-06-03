@@ -10,15 +10,27 @@ section.projects{
     font-weight: 700;
     letter-spacing: rem(1.4);
   }
-  .content{
+  .gallery{
+    @include span-columns(5);
+    padding-right:rem(28);
+    @include aspect-ratio(1,1);
+    @include mobile-col();
+    .slider-image{
+      background-size: contain;
+      background-position:center center;
+      background-repeat:no-repeat;
+      @include aspect-ratio(4,3);
+    }
+  }
+  .content-text{
     padding-right:rem(28);
     @include span-columns(5);
-    @include shift(3);
+    //@include shift(1);
     @include mobile-col();
   }
   .meta{
     padding-top:rem(56);
-    @include span-columns(3);
+    @include span-columns(2);
     @include omega();
     @include mobile-col();
     h3{

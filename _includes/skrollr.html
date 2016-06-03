@@ -6,3 +6,18 @@ if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAg
     });
 }
 </script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('.slider').owlCarousel({
+		loop:true,
+		items:1,
+		//dots: true,
+		autoplay: true,
+		autoplaySpeed:650
+		//URLhashListener:true,
+		//startPosition: 'URLHash'
+	});
+});
+</script>

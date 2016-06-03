@@ -492,17 +492,60 @@ section.projects {
     font-size: 2.25rem;
     font-weight: 700;
     letter-spacing: 0.0875rem; }
-  section.projects .content {
-    padding-right: 1.75rem;
+  section.projects .gallery {
     float: left;
     display: block;
     margin-right: 0.76336%;
     width: 41.22137%;
-    margin-left: 25.19084%; }
-    section.projects .content:last-child {
+    padding-right: 1.75rem;
+    position: relative; }
+    section.projects .gallery:last-child {
+      margin-right: 0; }
+    section.projects .gallery:before {
+      display: block;
+      content: "";
+      width: 100%;
+      padding-top: 100%; }
+    section.projects .gallery > .content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      overflow: hidden; }
+    @media screen and (max-width: 40em) {
+      section.projects .gallery {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 4%; } }
+    section.projects .gallery .slider-image {
+      background-size: contain;
+      background-position: center center;
+      background-repeat: no-repeat;
+      position: relative; }
+      section.projects .gallery .slider-image:before {
+        display: block;
+        content: "";
+        width: 100%;
+        padding-top: 75%; }
+      section.projects .gallery .slider-image > .content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        overflow: hidden; }
+  section.projects .content-text {
+    padding-right: 1.75rem;
+    float: left;
+    display: block;
+    margin-right: 0.76336%;
+    width: 41.22137%; }
+    section.projects .content-text:last-child {
       margin-right: 0; }
     @media screen and (max-width: 40em) {
-      section.projects .content {
+      section.projects .content-text {
         width: 90%;
         margin-left: 5%;
         margin-right: 5%;
@@ -512,7 +555,7 @@ section.projects {
     float: left;
     display: block;
     margin-right: 0.76336%;
-    width: 24.42748%;
+    width: 16.03053%;
     margin-right: 0; }
     section.projects .meta:last-child {
       margin-right: 0; }

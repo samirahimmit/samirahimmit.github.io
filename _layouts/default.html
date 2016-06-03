@@ -8,6 +8,9 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- Custom CSS -->
+
+        <link rel="stylesheet" href="/css/owl.carousel.css">
+        <link rel="stylesheet" href="/css/owl.theme.default.min.css">
         <link rel="stylesheet" href="/css/main.css">
 
     </head>
@@ -25,7 +28,20 @@
       <section class="projects">
         {% for project in site.projects %}
           <article>
-            <div class="content">
+            <div class="gallery">
+              <div class="content">
+                <div class="slider owl-carousel owl-theme">
+                  {% for image in project.images %}
+
+                      <div  class="slider-image" style="background-image: url({{project.imagefolder}}/{{ image.name }})"></div>
+
+                        {% endfor %}
+
+                </div>
+              </div>
+            </div>
+            <div class="content-text">
+
              <h1 class="project">{{ project.title }}</h1>
              {{ project.content }}
             </div>
