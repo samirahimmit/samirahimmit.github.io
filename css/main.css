@@ -493,6 +493,7 @@ section.projects {
     font-weight: 700;
     letter-spacing: 0.0875rem; }
   section.projects .gallery {
+    margin-top: 0.625rem;
     float: left;
     display: block;
     margin-right: 0.76336%;

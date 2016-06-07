@@ -1,6 +1,10 @@
 ---
 title:  Stichting Elckerlyc
 categories: zorg&welzijn communicatie tekst reputatiemanagement
+imagefolder: /img/elckerlyc
+images:
+- name: 01.jpg
+  text: Stichting Elckerlyc
 ---
 
 Stichting Elckerlyc is een opvanginstelling in Vlaardingen.

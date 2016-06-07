@@ -11,6 +11,7 @@ section.projects{
     letter-spacing: rem(1.4);
   }
   .gallery{
+    margin-top:rem(10);
     @include span-columns(5);
     padding-right:rem(28);
     @include aspect-ratio(1,1);
