@@ -457,15 +457,17 @@ section.about {
   section.about p {
     clear: both; }
   section.about p:first-child {
-    width: 60%;
+    width: 40%;
     float: left; }
+    section.about p:first-child img {
+      width: 100%;
+      float: left;
+      margin-top: 0.625rem; }
   section.about p:nth-child(2) {
-    clear: none; }
-  section.about img {
-    width: calc(38%);
-    float: right;
-    margin-top: 0.625rem;
-    margin-left: 1%; }
+    clear: none;
+    width: 55%;
+    float: left;
+    margin-left: 5%; }
 
 section.contact {
   margin-bottom: 10%; }

@@ -99,18 +99,22 @@ section.about{
     clear:both;
   }
   p:first-child{
-    width:60%;
+    width:40%;
     float:left;
+    img{
+      width:100%;
+      float:left;
+      margin-top:rem(10);
+    }
   }
-  p:nth-child(2){
-    clear:none;
+  p:nth-child(2) {
+    clear: none;
+    width: 55%;
+    float: left;
+    margin-left: 5%;
   }
-  img{
-    width:calc(38%);
-    float:right;
-    margin-top:rem(10);
-    margin-left:1%;
-  }
+
+
 }
 
 section.contact{
