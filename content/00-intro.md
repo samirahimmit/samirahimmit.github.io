@@ -1,4 +1,4 @@
-Communiceren begint met goed luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag en kritisch. Daarom vraag ik door. Zo kom ik tot een advies of tekst die aansluit op jouw visie.  
+**Communiceren begint met goed luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag en kritisch. Daarom vraag ik door. Zo kom ik tot een advies of tekst die aansluit op jouw visie.**  
 
 Ik schrijf heldere teksten voor websites, magazines en brochures, persberichten en journalistieke stukken. Met een scherp oog redigeer of herschrijf ik jouw teksten. Mijn favoriete uitdaging is om complexe teksten leesbaar te maken.
 
