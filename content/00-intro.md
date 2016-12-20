@@ -5,6 +5,6 @@ Interviewen vind ik leuk en doe ik vaak. Ook adviseer ik over strategische commu
 
 Nieuws!
 Sinds kort werk ik samen met Anneke Kortleve: mijn Terra Cacti-partner en een hele goede tekstschrijver. Terra Cacti is een bureau voor tekst en strategie.
-ˆWij vinden dat cacti het meervoud van cactus is. 
+*Wij vinden dat cacti het meervoud van cactus is. 
 
 [Hieronder vind je een zeer onvolledige lijst van mijn projecten. Een goed voornemen voor het nieuwe jaar is een update. Beloofd!] 
