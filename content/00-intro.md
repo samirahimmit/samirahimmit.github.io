@@ -5,6 +5,6 @@ Ik schrijf heldere teksten voor websites, magazines en brochures, persberichten 
 Ik word enthousiast van interviews en doe dit zo vaak als ik kan. Ook adviseer ik over strategische communicatiezaken - en voer dit vervolgens uit. 
 
 Nieuws!
-Sinds kort werk ik samen met Anneke Kortleve: mijn Terra Cacti-partner en een hele goede tekstschrijver. Terra Cacti is een bureau voor tekst en strategie.
+Sinds kort werk ik samen met Anneke Kortleve: mijn [Terra Cacti](http://terracacti.nl/)-partner en een hele goede tekstschrijver. Terra Cacti is een bureau voor tekst en strategie.
 
 [Hieronder vind je een zeer onvolledige lijst van mijn projecten. Een goed voornemen voor het nieuwe jaar is een update. Beloofd!] 
