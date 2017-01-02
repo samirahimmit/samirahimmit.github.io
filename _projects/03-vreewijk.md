@@ -3,7 +3,7 @@ title:  Stichting Vreewijk 100 jaar
 categories: Rotterdam communicatie tekst publiciteit
 imagefolder: /img/vreewijk
 images:
-- name: 01.jpg
+- name: 02.jpg
   text: Stichting Vreewijk 100 jaar
 ---
 
