@@ -5,7 +5,7 @@ imagefolder: /img/elckerlyc
 images:
 - name: 01.jpg
   text: Stichting Elckerlyc
-  - name: 03.jpg
+- name: 03.jpg
   text: Stichting Elckerlyc
 ---
 
