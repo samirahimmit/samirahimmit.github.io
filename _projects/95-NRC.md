@@ -5,7 +5,7 @@ imagefolder: /img/elckerlyc
 images:
 - name: 09.jpg
   text: Crownstone
-- name: 08.jpg
+- name: 08.JPG
   text: Influentials
 - name: 07.jpg
   text: Atelier Robotiq
