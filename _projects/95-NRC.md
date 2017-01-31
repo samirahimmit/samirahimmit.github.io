@@ -1,0 +1,1 @@
+Voor de Rotterdambijlage van het NRC schrijf ik een keer in de twee weken een rubriek, Rotterdamse Glorie. Ik interview jonge Rotterdamse ondernemers in 350 woorden, elke vrijdag wordt om en om mijn interview of die van Maurice Geluk – een wel échte journalist, en een goede ook – gepubliceerd. 
