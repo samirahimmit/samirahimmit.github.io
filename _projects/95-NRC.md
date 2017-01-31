@@ -3,11 +3,11 @@ title:  NRC | Rotterdams glorie
 categories: journalistiek tekst 
 imagefolder: /img/elckerlyc
 images:
-- name: 01.jpg
+- name: 09.jpg
   text: Crownstone
-- name: 03.jpg
+- name: 08.jpg
   text: Influentials
-- name: 03.jpg
+- name: 07.jpg
   text: Atelier Robotiq
 ---
 
