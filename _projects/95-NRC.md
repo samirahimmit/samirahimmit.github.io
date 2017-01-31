@@ -21,4 +21,4 @@ De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving 
 
 **2017**
 
-19 januari 2017: ['Robot maakt ufo-achtige designlamp'](https://www.nrc.nl/nieuws/2017/01/19/robot-maakt-ufo-achtige-designlamp-6253689-a1542041). Foto via [Atelier Robotiq](http://www.atelierrobotiq.com/)
+19 januari: ['Robot maakt ufo-achtige designlamp'](https://www.nrc.nl/nieuws/2017/01/19/robot-maakt-ufo-achtige-designlamp-6253689-a1542041). Foto via [Atelier Robotiq](http://www.atelierrobotiq.com/)
