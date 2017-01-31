@@ -1,3 +1,16 @@
+---
+title:  NRC | Rotterdams glorie
+categories: journalistiek tekst 
+imagefolder: /img/elckerlyc
+images:
+- name: 01.jpg
+  text: Crownstone
+- name: 03.jpg
+  text: Influentials
+- name: 03.jpg
+  text: Atelier Robotiq
+---
+
 De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving Rijnmond. Eens in de twee weken schrijf ik een rubriek van 350 woorden over Rotterdamse ondernemers: Rotterdams glorie. 
 
 **2016**
