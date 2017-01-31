@@ -1,1 +1,2 @@
-Voor de Rotterdambijlage van het NRC schrijf ik een keer in de twee weken een rubriek, Rotterdamse Glorie. Ik interview jonge Rotterdamse ondernemers in 350 woorden, elke vrijdag wordt om en om mijn interview of die van Maurice Geluk – een wel échte journalist, en een goede ook – gepubliceerd. 
+De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving Rijnmond. Eens in de twee weken schrijf ik een rubriek van 350 woorden over Rotterdamse ondernemers voor deze bijlage: Rotterdams glorie. 
+Op 15 december 2016 verscheen 'Slimmer huis dankzij een stekker'
