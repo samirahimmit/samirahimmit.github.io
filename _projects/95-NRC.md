@@ -9,6 +9,8 @@ images:
   text: Influentials
 - name: 07.jpg
   text: Atelier Robotiq
+- name: 11.jpg
+  text: Denoism
 ---
 
 De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving Rijnmond. Eens in de twee weken schrijf ik een rubriek van 350 woorden over Rotterdamse ondernemers: Rotterdams glorie. 
@@ -22,3 +24,5 @@ De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving 
 **2017**
 
 19 januari: ['Robot maakt ufo-achtige designlamp'](https://www.nrc.nl/nieuws/2017/01/19/robot-maakt-ufo-achtige-designlamp-6253689-a1542041). Foto via [Atelier Robotiq](http://www.atelierrobotiq.com/)
+
+10 februari: ['Designer jeans met een groen randje'](https://www.nrc.nl/nieuws/2017/02/10/designer-jeans-met-een-groen-randje-6637745-a1545245). Foto via [Denoism](http://denoism.com/)
