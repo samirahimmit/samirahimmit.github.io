@@ -3,9 +3,11 @@ title:  FrieslandCampina
 categories: tekst interview
 imagefolder: /img/elckerlyc
 images:
-- name: 02.jpg
+- name: 12.jpg
   text: Coffee. Milk. Magic.
-- name: 01.jpg
+- name: 13.jpg
+  text: Coffee. Milk. Magic.
+- name: 14.jpg
   text: Coffee. Milk. Magic.
 ---
 
