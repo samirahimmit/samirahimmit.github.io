@@ -26,3 +26,5 @@ De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving 
 19 januari: ['Robot maakt ufo-achtige designlamp'](https://www.nrc.nl/nieuws/2017/01/19/robot-maakt-ufo-achtige-designlamp-6253689-a1542041). Foto via [Atelier Robotiq](http://www.atelierrobotiq.com/)
 
 10 februari: ['Designer jeans met een groen randje'](https://www.nrc.nl/nieuws/2017/02/10/designer-jeans-met-een-groen-randje-6637745-a1545245). Foto via [Denoism](http://denoism.com/)
+
+4 maart: ['Drukkerij met een huiskamergevoel'](https://www.nrc.nl/nieuws/2017/03/04/drukkerij-met-een-huiskamer-gevoel-7015445-a1548451). Foto via [DRUK](drukrotterdam.nl)
