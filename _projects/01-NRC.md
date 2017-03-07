@@ -11,6 +11,8 @@ images:
   text: Atelier Robotiq
 - name: 11.jpg
   text: Denoism
+- name: 22.jpg
+  text: DRUK
 ---
 
 De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving Rijnmond. Eens in de twee weken schrijf ik een rubriek van 350 woorden over Rotterdamse ondernemers: Rotterdams glorie. 
