@@ -33,4 +33,4 @@ De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving 
 
 4 maart: ['Drukkerij met een huiskamergevoel'](https://www.nrc.nl/nieuws/2017/03/04/drukkerij-met-een-huiskamer-gevoel-7015445-a1548451). Foto via [DRUK](drukrotterdam.nl)
 
-18 maart: ['Duo maakt onalledaags 'fruitleer' van mango's'] (https://www.nrc.nl/nieuws/2017/03/18/duo-maakt-onalledaagsfruitleer-uit-mangos-7345518-a1550617). Foto via [Fruitleather Rotterdam}(http://fruitleather.nl/)
+18 maart: ['Duo maakt onalledaags 'fruitleer' van mango's'](https://www.nrc.nl/nieuws/2017/03/18/duo-maakt-onalledaagsfruitleer-uit-mangos-7345518-a1550617). Foto via [Fruitleather Rotterdam}(http://fruitleather.nl/)
