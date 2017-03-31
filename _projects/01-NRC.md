@@ -13,6 +13,8 @@ images:
   text: Denoism
 - name: 22.jpg
   text: DRUK
+- name: 23.jpg
+  text: Fruitleather Rotterdam
 ---
 
 De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving Rijnmond. Eens in de twee weken schrijf ik een rubriek van 350 woorden over Rotterdamse ondernemers: Rotterdams glorie. 
@@ -30,3 +32,5 @@ De Rotterdambijlage van NRC Handelsblad verschijnt elke zaterdag in de omgeving 
 10 februari: ['Designer jeans met een groen randje'](https://www.nrc.nl/nieuws/2017/02/10/designer-jeans-met-een-groen-randje-6637745-a1545245). Foto via [Denoism](http://denoism.com/)
 
 4 maart: ['Drukkerij met een huiskamergevoel'](https://www.nrc.nl/nieuws/2017/03/04/drukkerij-met-een-huiskamer-gevoel-7015445-a1548451). Foto via [DRUK](drukrotterdam.nl)
+
+18 maart: ['Duo maakt onalledaags 'fruitleer' van mango's'] (https://www.nrc.nl/nieuws/2017/03/18/duo-maakt-onalledaagsfruitleer-uit-mangos-7345518-a1550617). Foto via [Fruitleather Rotterdam}(http://fruitleather.nl/)
