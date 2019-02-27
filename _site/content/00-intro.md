@@ -1,5 +1,6 @@
-Communiceren begint met goed luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag en kritisch. Daarom vraag ik door. Op deze manier kom ik tot een advies of tekst die aansluit op jouw visie. Jouw visie met mijn twist. 
+**Communiceren begint met goed luisteren. Jouw verhaal ken ik nog niet. Dus vertel maar, ik luister graag en kritisch. En ik vraag door.**  
 
-Ik schrijf persberichten, teksten voor websites, jaarverslagen en brochures. En ik geef communicatieadvies. Frisdenkend, weloverwogen en helder verwoord.
+Ik schrijf heldere teksten voor websites, magazines en brochures. Ook kun je bij me terecht voor persberichten en journalistieke stukken.  Mijn favoriete uitdaging is om complexe teksten leesbaar te maken en een goede tekst beter. Met een scherp oog redigeer of herschrijf ik  teksten waar je zelf niet helemaal uitkomt. Maar het liefst interview ik om daar later een mooi verhaal van te maken.
 
-Deze website is nog in de maak. Meer projecten volgen!
+**Joehoe!**
+[Terra Cacti](http://terracacti.nl/) is een bureau voor tekst en strategie, opgericht door Anneke Kortleve en mij. Op deze website vind je een actueel (of nou ja, zo goed als) overzicht van onze projecten. De lijst hieronder is onvolledig en gedateerd.
